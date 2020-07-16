@@ -5,8 +5,8 @@
 
 ## <a name='overview'>Overview</a>
 
-Node module used for reading SWF Files.
+Simple node module used for reading [SWF Format](https://www.adobe.com/content/dam/acom/en/devnet/pdf/swf-file-format-spec.pdf).
 
 ## <a name='credits'>Credits</a>
 
-Craft with ::love:: by **Dofus-Currency Team**.
+Craft with :heart: by **Dofus-Currency Team**.
